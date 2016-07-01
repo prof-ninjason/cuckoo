@@ -36,3 +36,8 @@ sudo /etc/init.d/vboxadd setup
 exit
 vagrant reload
 ````
+
+To Do
+```
+Getting this project to work on VMware
+```
